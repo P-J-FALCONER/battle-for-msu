@@ -7,7 +7,7 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Mission Statement
   description: >
-    Proin velit felis, tempor eget risus at, dictum faucibus lacus. Donec nec cursus risus. Duis iaculis, erat et euismod hendrerit, risus velit tincidunt purus, id commodo turpis erat vel nisi. Sed nisl mi, fermentum sit amet nunc imperdiet, ultricies cursus nibh. Integer dictum venenatis varius. Cras euismod id tortor sed vehicula. Quisque a metus sed ex gravida condimentum. Etiam maximus tortor arcu, at posuere lorem luctus sed. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam molestie nunc risus, ac iaculis leo lobortis ut. Nullam iaculis urna a magna condimentum vestibulum. Phasellus mollis libero enim, vitae interdum eros porttitor vitae. Sed dignissim pretium lorem et mollis. Donec pharetra libero non ante varius facilisis. Vivamus commodo ex vel mi ultricies, pretium tempor lorem iaculis. Donec nulla odio, dapibus non ipsum ut, posuere molestie nulla.
+    COMING SOON!
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

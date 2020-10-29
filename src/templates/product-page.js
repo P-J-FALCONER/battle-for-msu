@@ -2,8 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
-import Testimonials from '../components/Testimonials'
+import Features from '../components/Academic_Features'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
@@ -161,6 +160,8 @@ export const productPageQuery = graphql`
               }
             }
             text
+            year
+            stats
           }
           heading
           description
