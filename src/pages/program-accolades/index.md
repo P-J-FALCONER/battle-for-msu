@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /program-accolades
 title: Our Coffee
-image: /img/jumbotron.jpg
+image: /img/pool_2.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -53,13 +53,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/womens_locker_room.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/team_room.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/name.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -69,7 +69,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/name.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
