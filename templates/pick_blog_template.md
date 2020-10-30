@@ -6,7 +6,7 @@ featuredpost: false
 featuredimage: /img/pat_falconer.jpg
 description: Class of 2014
 tags:
-  - Swimmer
+  - Swimming
   - Alumni
 ---
 ![Pat Falconer](/img/pat_falconer.jpg)
