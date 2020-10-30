@@ -5,7 +5,7 @@ title: Program Accomplishments
 image: /img/pool_2.jpg
 heading: Academic Accomplishments
 description: >-
-  Michigan State Swimming and Diving program has always held its athletes to a high academic standard. Check out below some of the accomplishments from the program in recent memory. If you have any additional accomplishments to add please feel free to contact us!
+  Michigan State Swimming and Diving believes strongly that its athletic program should represent the same level of excellence found throughout the University, thereby providing the opportunity and encouragement for each student-athlete to reach his/her fullest intellectual and athletic potential. The common goal among Michigan States Swimming and Diving Program is to achieve success at the highest level possible. MSU Swimming and Diving expects to produce scholar-athletes whose performance in the classroom and on the fields of play are a reflection of the programs values.
 intro:
   blurbs:
     - image: /img/coffee.png
