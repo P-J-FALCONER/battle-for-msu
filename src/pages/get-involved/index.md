@@ -52,5 +52,3 @@ Regards,
 **[Insert class or your affiliation with the team here]**
 
 ------
-
-## Social Media 
