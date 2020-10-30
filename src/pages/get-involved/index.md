@@ -3,7 +3,7 @@ templateKey: 'about-page'
 path: /get-involved
 title: How to get Involved
 ---
-## Contact School Administors
+## Contact School Administrators
 
 #### Top Priority Contacts, Email as Many as You Can: 
  - President, Samuel Stanley: PresidentStanley@msu.edu 

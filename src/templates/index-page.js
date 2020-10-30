@@ -3,8 +3,13 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+
+
+import { Player } from 'video-react';
+import '../../node_modules/video-react/dist/video-react.css' // import css
+import video_1_poster from '../img/video_1_poster.png'
+import video_2_poster from '../img/video_2_poster.png'
 
 export const IndexPageTemplate = ({
   image,
@@ -62,17 +67,17 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      Program Accolades
-                    </h3>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/program-accolades">
-                      Read More
-                    </Link>
+                  <Player
+                  playsInline
+                  poster={video_1_poster}
+                  src="https://battle-for-msu-swim-dive.s3.amazonaws.com/msu_video_1.mp4"
+                />
+                <span></span>
+                <Player
+                  playsInline
+                  poster={video_2_poster}
+                  src="https://battle-for-msu-swim-dive.s3.amazonaws.com/msu_video_2.mp4"
+                />
                   </div>
                 </div>
                 <div className="column is-12">
