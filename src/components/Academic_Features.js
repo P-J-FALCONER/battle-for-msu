@@ -6,7 +6,7 @@ const FeatureGrid = ({ gridItems }) => (
   <div>
     {gridItems.map((item) => (
               <section className="section">
-              <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered">
+              <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered has-text-success">
                 {item.year}
               </h2>
               <ul>

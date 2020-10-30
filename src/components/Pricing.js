@@ -6,7 +6,7 @@ const Pricing = ({ data }) => (
     {data.map((price) => (
 
         <section className="section">
-          <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered">
+          <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered has-text-success">
             {price.price}
           </h2>
           <ul>
