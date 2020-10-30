@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-// import logo from '../img/logo.jpg'
+import logo from '../img/logo.jpeg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -37,11 +37,15 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
+        style={{ height: '8em', backgroundColor: '#18453B' }}
       >
         <div className="container">
           <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
-              <a>Home</a>
+          <img
+                    className="fas fa-lg"
+                    src={logo}
+                    alt="Logo"/>
             </Link>
             {/* Hamburger menu */}
             <div
@@ -59,19 +63,22 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/situation">
+              <Link className="navbar-item has-text-white" to="/situation">
                 Our Situation
               </Link>
-              <Link className="navbar-item" to="/plan">
+              <Link className="navbar-item has-text-white" to="/plan">
                 Plan of Attack
               </Link>
-              <Link className="navbar-item" to="/program-accolades">
+              <Link className="navbar-item has-text-white" to="/get-involved">
+                Get Involved
+              </Link>
+              <Link className="navbar-item has-text-white" to="/program-accolades">
                 Program Accolades
               </Link>
-              <Link className="navbar-item" to="/testimonials">
+              <Link className="navbar-item has-text-white" to="/testimonials">
                 Testimonials
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className="navbar-item has-text-white" to="/contact">
                 Contact Us
               </Link>
             </div>
