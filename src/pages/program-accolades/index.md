@@ -194,7 +194,7 @@ pricing:
       price: '2015-2016'
     - description: not needed
       items:
-        - Diver, Cristee Cordes made the podium, finishing 6th at the 2014-2015 in the 3m Big Ten Championship (the first Spartan woman to make the podium since 1997), Cristee also finished 11th in the 1m 
+        - Diver, Cristee Cordes made the podium, finishing 6th at the 2014-2015 in the 3m Big Ten Championship, Cristee also finished 11th in the 1m.
         - Lizzie Brown earned an NCAA B-cut and was C finalist in the 400 IM and 200 Butterfly  at the 2015 B1G Championships 
         - Hannah Pugh earned an NCAA B-cut and was C finalist in the  200 Butterfly at the 2015 B1G Championships 
       plan: not needed
@@ -269,12 +269,14 @@ pricing:
       price: '2002-2003'
     - description: not needed
       items:
-        - No Data Available (Contact us if you have Information!)
+        - Carly Weiden Big Ten Champion on 3m
       plan: not needed
       price: '2001-2002'
     - description: not needed
       items:
         - Aaron Mahaney - 2000 Olympic Trials 200 Fly
+        - Carly Weiden Big Ten Champion on 3m
+        - Summer Mitchell Big Ten Champion on 1m
       plan: not needed
       price: '2000-2001'
     - description: not needed
