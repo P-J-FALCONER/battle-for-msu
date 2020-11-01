@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Ricky Forrest
-date: 2020-10-29T15:04:10.000Z
+date: 2020-11-01T15:04:10.000Z
 featuredpost: false
 description: >-
   Class of 2011

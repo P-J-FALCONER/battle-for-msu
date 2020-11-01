@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import BlogRoll from '../components/BlogRoll'
+import BlogRollIndex from '../components/BlogRollIndex'
 
 
 import { Player } from 'video-react';
@@ -84,7 +84,7 @@ export const IndexPageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest Testimonials
                   </h3>
-                  <BlogRoll />
+                  <BlogRollIndex />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/testimonials">
                       Read more
