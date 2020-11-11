@@ -226,12 +226,14 @@ pricing:
       items:
         - Men’s Swimming & Diving wins TYR Invitational
         - Sarah Clay named Big 10 Diver of the Week
-        - David Garry and Ivan Zalessov compete at US Diving Winter National Championships
+        - David Garry, Ivan Zalessov, Kayla Kalmbach, Jordan Jackson  compete at US Diving Winter National Championships. Kayla was 11th in the quarterfinals on 1m, Ivan and Dave were 10th and 13th respectively on mens 1m.  Dave also qualified for the quarterfinals on 3m. 
+        - Sarah Clay was 11th on 1m and 13th on 3m at the Big Ten Championship, and Kayla Kalmbach was 13th on 1m
       plan: not needed
       price: '2009-2010'
     - description: not needed
       items:
         - Kevin Puskaric places 6th in 100 Breast at Big 10 Championships
+        - Kayla Kalmbach, Sarah Clay, and Ivan Zalessov competed in the 2009 USA Diving Spring National. Everyone qualified to advance on 1m (Kayla 12th, Sarah, 22nd, and Ivan 14th) and 3m (Sarah 18th, Kayla 31st, Ivan 16th), but due to school we had only planned to compete in the prelims, and were unable to compete in the finals.
       plan: not needed
       price: '2008-2009'
     - description: not needed

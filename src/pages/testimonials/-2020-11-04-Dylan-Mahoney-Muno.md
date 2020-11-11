@@ -1,0 +1,13 @@
+---
+templateKey: 'blog-post'
+title: Dylan Mahoney-Muno
+date: 2020-11-05T15:04:10.000Z
+featuredpost: false
+description: >-
+  Class of 2014
+tags:
+  - Alumni
+  - Athletic Trainer
+---
+
+In my senior year (2013-2014), I was assigned to Swimming and Diving for the Athletic Training program. This was my first time being involved with the sport ever. Immediately, I fell in love with the sport and all it has to offer. It provided an incredible and educational experience for our Athletic Training program and for me personally. This sport provides evaluations, treatments, rehabs, communication, creativity, preventative methods, organization, and progressional responsibility in ways that you will not find with any other sport. These are true values to the athletic trainers' skill sets. Ending this program will have a domino effect and will hurt the clinical opportunities provided in the athletic training program. These student-athletes and coaches deserve to be able to compete and train for this university at the NCAA D1 level. They also deserve to be cared for and treated by your nationally recognized Athletic Training program. These men and women are the types of student-athletes you want to be representing Michigan State University, they carry themselves with high expectations academically, the utmost pride for their sport and school, and professionally when representing MSU in and out of the pool. What they have been able to accomplish with the facility and budget is incredible. They are very connected with the community and serve as role models for their previous High Schools/club teams, friends, families, strangers, and MSU students. Coach Matt Gianiodis, Eric Best, and Kathleen Milloy make this team such an honor to be a part of. They are welcoming, professional, and created a family atmosphere. I worked with almost every varsity sport at MSU and no other team comes close to offering an atmosphere like this. This is the type of sport, coaches, and student-athletes that this university can build on from having in the athletic department. This is not the prime time TV sport or the face of the university but this is the blue-collar, backbone, and foundation of MSU Athletics that this school does benefit from morally, ethically, and on a personal level. This sport and team had a positive impact on my life and career. I am forever grateful for my time and experience with the program!
