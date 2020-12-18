@@ -82,6 +82,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item has-text-white" to="/testimonials">
                 Testimonials
               </Link>
+              <Link className="navbar-item has-text-white" to="/save-olympic-sports">
+                #SaveOlympicSports
+              </Link>
               <Link className="navbar-item has-text-white" to="/contact">
                 Contact Us
               </Link>
