@@ -4,12 +4,9 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import BlogRollIndex from '../components/BlogRollIndex'
+import ImageGallery from '../components/ImageGallery';
 
-
-import { Player } from 'video-react';
-import '../../node_modules/video-react/dist/video-react.css' // import css
-import video_1_poster from '../img/video_1_poster.png'
-import video_2_poster from '../img/video_2_poster.png'
+const handleDragStart = (e) => e.preventDefault();
 
 export const IndexPageTemplate = ({
   image,
@@ -66,18 +63,9 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="columns">
-                  <div className="column is-12">
-                  <Player
-                  playsInline
-                  poster={video_1_poster}
-                  src="https://battle-for-msu-swim-dive.s3.amazonaws.com/msu_video_1.mp4"
-                />
-                <span></span>
-                <Player
-                  playsInline
-                  poster={video_2_poster}
-                  src="https://battle-for-msu-swim-dive.s3.amazonaws.com/msu_video_2.mp4"
-                />
+                  <div className="column is-12 has-text-centered">
+                    <h1>The Team Behind The Battle</h1>
+                    <ImageGallery />
                   </div>
                 </div>
                 <div className="column is-12">
@@ -114,7 +102,6 @@ IndexPageTemplate.propTypes = {
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-
   return (
     <Layout>
       <IndexPageTemplate
