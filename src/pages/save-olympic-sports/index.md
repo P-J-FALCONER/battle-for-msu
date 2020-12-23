@@ -49,7 +49,7 @@ title: Save Olympic Sports
   - [Men's Gymnastic Link Tree](https://linktr.ee/save_gophergymnastics/)
   - [Men's Gymnastic Instagram](https://www.instagram.com/save_gophergymnastics/?hl=en)
 
-- **Stadford** Men's Wrestling, Men's & Women's Fencing, Men's Volleyball, Men's & Women's Rowing, Women's Field Hockey
+- **Stanford** Men's Wrestling, Men's & Women's Fencing, Men's Volleyball, Men's & Women's Rowing, Women's Field Hockey,Sailing, Squash, Synchronized Swimming
   - [Men's Wrestling Website](https://www.keepstanfordwrestling.com/)
   - [Men's & Women's Fencing Website](https://savestanfordfencing.com/)
   - [Women's Field Hockey Website](https://www.savestanfordfieldhockey.com/)
