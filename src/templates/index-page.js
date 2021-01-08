@@ -49,9 +49,16 @@ export const IndexPageTemplate = ({
               <div className="content">
               <div className="columns">
                   <div className="column is-12">
-                    <h1 className="has-text-weight-semibold is-size-2">
+                    <h1 className="has-text-weight-semibold is-size-2 has-text-centered">
                       Battle for Spartan Swimming and Diving
                     </h1>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12">
+                    <h2 className="has-text-weight-semibold is-size-2 has-text-centered">
+                    <a href='https://gofund.me/21dc0498'>Help Support our Battle! Visit Our GoFundMe</a>
+                    </h2>
                   </div>
                 </div>
                 <div className="content">
