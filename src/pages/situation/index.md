@@ -4,7 +4,7 @@ path: /plan
 title: About our Situation
 ---
 
-<iframe src="/img/B4SSD_Infographic.pdf" width='100%' height='900'></iframe>
+<iframe src="https://battle-for-msu-swim-dive.s3.amazonaws.com/B4SSD_Infographic.pdf" width='100%' height='900'></iframe>
 
 ### Our Situation
 On Thursday, October 22nd, Bill Beekman, the AD for MSU, announced that he had made the decision to discontinue the Men’s and Women’s Swimming and Diving teams after the 2020-2021 season. This decision lacks transparency, accountability, justification, and disrespects the athletic department’s own student-athletes, whom it should aim to protect. We, as alumni, current Spartans, olympic-sport athletes from across the country, and other friends of the program reject this attempt to cut these teams, and vow to Battle for Spartan Swim and Dive. The decision is being fought on the following grounds:
