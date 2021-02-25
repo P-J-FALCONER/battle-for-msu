@@ -56,11 +56,12 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                    <h2 className="has-text-weight-semibold is-size-2 has-text-centered">
-                    <a href='https://gofund.me/21dc0498'>Help Support our Battle! Visit Our GoFundMe</a>
+                    <h2>
+                    <a class='button is-success is-large is-fullwidth' href='https://gofund.me/21dc0498'>Help Support our Battle! Visit Our GoFundMe</a>
                     </h2>
                   </div>
                 </div>
+          
                 <div className="content">
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
@@ -69,6 +70,13 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
                 </div>
+                <div className="columns">
+                <div className="column is-12">
+                    <h2 >
+                    <a class='button is-success is-large is-fullwidth' href='https://linktr.ee/battleforspartanswimanddive'>Useful Links</a>
+                    </h2>
+                  </div>
+                  </div>
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <h1>The Team Behind The Battle</h1>
