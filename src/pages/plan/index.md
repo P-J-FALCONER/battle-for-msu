@@ -3,6 +3,8 @@ templateKey: 'about-page'
 path: /plan
 title: REINSTATEMENT PLAN OF ATTACK
 ---
+ 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4vAOLnwhL3I0Clg2shsycCoTquH3wKCqKs8pByXJatocCL_0CSxK0Lemx1QNiJg/embed?start=false&loop=false&delayms=3000" frameborder="0" width='100%' height='500' allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### As members of the Battle for Spartan Swim and Dive, we will fight until this decision is overturned and these teams are reinstated. To achieve this, we shall take the following actions:
 
