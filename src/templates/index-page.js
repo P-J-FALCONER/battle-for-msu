@@ -57,7 +57,14 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12">
                     <h2>
-                    <a class='button is-success is-large is-fullwidth' href='https://gofund.me/21dc0498'>Help Support our Battle! Visit Our GoFundMe</a>
+                    <a class='button is-success is-large is-fullwidth' href='https://www.change.org/battleforspartanswimanddive'>Sign Petition to Reinstate Our Program!</a>
+                    </h2>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12">
+                    <h2>
+                    <a class='button is-success is-large is-fullwidth' href='https://www.freep.com/story/sports/college/michigan-state/spartans/2021/08/05/michigan-state-athletic-director-bill-beekman-resigns-national-search/7971017002/'>AD Beekman's Resignation Article</a>
                     </h2>
                   </div>
                 </div>
