@@ -3,11 +3,16 @@ templateKey: 'situation'
 path: /plan
 title: About our Situation
 ---
+<div class="columns">
+  <div class="column">
 
-<iframe src="https://battle-for-msu-swim-dive.s3.amazonaws.com/B4SSD_Infographic.pdf" width='100%' height='900'></iframe>
 
-### Our Situation
-On Thursday, October 22nd, Bill Beekman, the AD for MSU, announced that he had made the decision to discontinue the Men’s and Women’s Swimming and Diving teams after the 2020-2021 season. This decision lacks transparency, accountability, justification, and disrespects the athletic department’s own student-athletes, whom it should aim to protect. We, as alumni, current Spartans, olympic-sport athletes from across the country, and other friends of the program reject this attempt to cut these teams, and vow to Battle for Spartan Swim and Dive. The decision is being fought on the following grounds:
+  <img src="https://battle-for-msu-swim-dive.s3.amazonaws.com/B4SSD+Fact+Infographic.png">
+
+  </div>
+  <div class="column">
+<h4>Our Situation
+On Thursday, October 22nd, Bill Beekman, the AD for MSU, announced that he had made the decision to discontinue the Men’s and Women’s Swimming and Diving teams after the 2020-2021 season. This decision lacks transparency, accountability, justification, and disrespects the athletic department’s own student-athletes, whom it should aim to protect. We, as alumni, current Spartans, olympic-sport athletes from across the country, and other friends of the program reject this attempt to cut these teams, and vow to Battle for Spartan Swim and Dive. The decision is being fought on the following grounds:</h4>
 
  - **Lack of Transparency** The athletic director did not give any information on how this decision was made or who was consulted on it. It is also unclear who actually has the power to cut a team, as this topic has not appeared in any Board of Trustees meetings. Additionally, Bill Beekman canceled his “Breakfast with Bill” Q&A event the morning following the announcement to avoid questions from the swimmers and divers who were not given a fair explanation the night before. The AD has previously committed to increased transparency to student athletes.
  - **No Financial Justification** In 2018-2019, the swim and dive teams cost roughly a combined $1.6 million, which represents just 1.15% of the over $140 million budget. For reference, that year, swim and dive accounted for 8.1% of student athletes. Of the $1.6 million, $1.1 million of it was paid to the university itself for financial aid. This is before considering endowments, program donors, and revenue generated from summer camps.
@@ -20,5 +25,11 @@ On Thursday, October 22nd, Bill Beekman, the AD for MSU, announced that he had m
  - **Achievements of the Program** Growing list of athletic and academic achievements. See program accolades above.
  - **Enrichment of the University and State** See above accolades. Additionally, many of the successful alumni from the program are not Michigan natives. The opportunity to swim at MSU brought them to the state for school, and many have stayed, helping grow the economy and innovation in Michigan.
  - **Destroying Opportunities for Michigan Residents** In Michigan high schools, there were over 10,500 swimmers and divers in 2019-2020. The loss of this program is a loss of opportunity for these young athletes who have dreamed to be Spartan swimmers. This decision will ultimately force many of these talented students to go out-of-state for college. It should be the duty of the publicly elected Trustees to protect these opportunities for those they represent.
+  </div>
+</div>
+
+
+
+
 
 

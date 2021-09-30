@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
-path: /get-involved
-title: How to get Involved
+path: /some-time
+title: Got Some Spare Time
 ---
 ## Contact School Administrators 
 Write personalized letters about why this fight matters to you.
