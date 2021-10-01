@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
                   <div className="column is-12">
-                    <img src='https://battle-for-msu-swim-dive.s3.amazonaws.com/logo.png' alt="BigCo Inc. logo"/>
+                    <img src='https://battle-for-msu-swim-dive.s3.amazonaws.com/logo.png' alt="logo"/>
                   </div>
                 <div className="columns">
                   <div className="column is-12">
@@ -57,6 +57,9 @@ export const IndexPageTemplate = ({
                     </h2>
                   </div>
                 </div>
+                <div className="column is-12">
+                    <a href='/some-time'><img src='https://battle-for-msu-swim-dive.s3.amazonaws.com/you_sould_see.png' alt="you should see link"/></a>
+                  </div>
           
                 <div className="content">
                   <div className="tile">
