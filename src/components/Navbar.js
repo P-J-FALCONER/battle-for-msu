@@ -45,7 +45,7 @@ const Navbar = class extends React.Component {
           <img  
                     style={{ maxHeight: '3.75rem'}}
                     className="fas fa-lg"
-                    src={logo}
+                    src='https://battle-for-msu-swim-dive.s3.amazonaws.com/home.png'
                     alt="Logo"/>
             </Link>
             {/* Hamburger menu */}
