@@ -47,13 +47,9 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-              <div className="columns">
                   <div className="column is-12">
-                    <h1 className="has-text-weight-semibold is-size-2 has-text-centered">
-                      Battle for Spartan Swimming and Diving
-                    </h1>
+                    <img src='https://battle-for-msu-swim-dive.s3.amazonaws.com/logo.png' alt="BigCo Inc. logo"/>
                   </div>
-                </div>
                 <div className="columns">
                   <div className="column is-12">
                     <h2>
