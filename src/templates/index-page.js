@@ -53,7 +53,9 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12">
                     <h2>
-                    <a class='button is-success is-large is-fullwidth' href='https://www.change.org/battleforspartanswimanddive'>Sign Petition to Reinstate Our Program!</a>
+                    <a style={{
+          'font-size': '0.8rem'
+        }} class='button is-success is-large is-fullwidth' href='https://www.change.org/battleforspartanswimanddive'>Sign Petition to Reinstate Our Program!</a>
                     </h2>
                   </div>
                 </div>
