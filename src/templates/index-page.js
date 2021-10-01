@@ -79,17 +79,6 @@ export const IndexPageTemplate = ({
                     <ImageGallery />
                   </div>
                 </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest Testimonials
-                  </h3>
-                  <BlogRollIndex />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/testimonials">
-                      Read more
-                    </Link>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
