@@ -10,5 +10,5 @@ path: /get-involved
 
 <a style='background-color:rgb(24, 69, 59); font-size: 0.8rem;' href='https://www.jotform.com/form/203318217622044?fbclid=IwAR0xKyKwRHsTEgxiC8M_DZAvUfZf6RdiF6lk3qRoMW1pG5OJgVywFXBIWUY' class="button is-large is-fullwidth is-success is-link">Have $5?</a>
 
-<a style='background-color:rgb(24, 69, 59); font-size: 0.8rem;' href='https://form.jotform.com/212655222817151' class="button is-large is-fullwidth is-success is-link">Want to become a walking billboard?</a>
+<a style='background-color:rgb(24, 69, 59); font-size: 0.8rem;' href='https://www.change.org/p/battle-for-spartan-swim-and-dive-asks-incoming-athletic-director-to-save-our-sport' class="button is-large is-fullwidth is-success is-link">Have a Few Friends?</a>
 
