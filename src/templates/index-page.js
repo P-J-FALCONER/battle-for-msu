@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
                   <div className="column is-12">
-                    <img src='https://battle-for-msu-swim-dive.s3.amazonaws.com/logo.png' alt="logo"/>
+                  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyVvGczELipPfPv51eO97vQThJMxT_qBf9fR1rfFqaTRY77oEuK0a4lqYxWjMUcUykIOBuVGOWKtNt/embed?start=false&loop=false&delayms=10000" frameborder="0" width='100%' height='500' allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                   </div>
                 <div className="columns">
                   <div className="column is-12">
