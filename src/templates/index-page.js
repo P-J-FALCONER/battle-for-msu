@@ -47,6 +47,9 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
+              <div className="column is-12 has-text-centered">
+                    <h1>Read Our Current Proposal Below!</h1>
+                  </div>
                   <div className="column is-12">
                   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyVvGczELipPfPv51eO97vQThJMxT_qBf9fR1rfFqaTRY77oEuK0a4lqYxWjMUcUykIOBuVGOWKtNt/embed?start=false&loop=false&delayms=10000" frameborder="0" width='100%' height='500' allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                   </div>
@@ -59,9 +62,6 @@ export const IndexPageTemplate = ({
                     </h2>
                   </div>
                 </div>
-                <div className="column is-12">
-                    <a href='/some-time'><img src='https://battle-for-msu-swim-dive.s3.amazonaws.com/you_sould_see.png' alt="you should see link"/></a>
-                  </div>
           
                 <div className="content">
                   <div className="tile">

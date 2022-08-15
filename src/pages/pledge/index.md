@@ -1,10 +1,18 @@
 ---
 templateKey: 'pledge'
 path: /pledge
-title: Pledge Your Support
+title: Current Pledge Amounts
 ---
 
-## Current Pledge Amount - $756,295 and 306 Pledges
-Please consider pledging to save our program. Anything is appreciated.
+## Total Individuals - 323
 
-<iframe src="https://form.jotform.com/203318217622044" width='100%' height='900'></iframe>
+## Total Pledged Over 5 Years - $670,325
+
+## Endowment - $500,000
+
+## Estate Donations - $7.5 Million
+
+## Matching Annual Donations Over 5 Years - $1 Million
+
+###
+Please consider pledging to save our program. Anything is appreciated.
