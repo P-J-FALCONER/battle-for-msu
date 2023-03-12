@@ -1,12 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import BlogRollIndex from '../components/BlogRollIndex'
 import ImageGallery from '../components/ImageGallery';
-
-const handleDragStart = (e) => e.preventDefault();
 
 export const IndexPageTemplate = ({
   image,
@@ -42,18 +39,31 @@ export const IndexPageTemplate = ({
     </div> */}
     <section className="section section--gradient">
       <div className="container">
-        
+
         <div className="section">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
               <div className="column is-12 has-text-centered">
-                    <h1>Read Our Current Proposal Below!</h1>
+                  <h1>Official Spartan Swim/Dive Pledge</h1>
+                    <h2>After almost 2.5 years of work, MSU's University Advancement Office,
+                      which oversees donations to Michigan State, has been directed by the President to collect
+                      official pledges toward the reinstatement of both Men's and Women's Swimming and Diving teams.
+                      Our understanding is that several lead donors have given us a great head start toward a viable
+                      reinstatement milestone and validating our original pledges will get us close. With the recent
+                      political climate at MSU we believe our window of opportunity is NOW, so let’s join the University
+                      and #GiveGreen this week for Spartan Swimming and Diving!</h2>
                   </div>
                   <div className="column is-12">
-                  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyVvGczELipPfPv51eO97vQThJMxT_qBf9fR1rfFqaTRY77oEuK0a4lqYxWjMUcUykIOBuVGOWKtNt/embed?start=false&loop=false&delayms=10000" frameborder="0" width='100%' height='500' allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+                  <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf">Donation Form (Click to Download)</a></h2>
+                  <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf">Example Donation Form  (Click to Download)</a></h2>
+                  <h2>Pledge FAQ</h2>
+                  <img src="https://battle-for-msu-swim-dive.s3.amazonaws.com/Pledge+Form+FAQ.png"></img>
                   </div>
-                <div className="columns">
+                  {/* <div className="column is-12">
+                  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyVvGczELipPfPv51eO97vQThJMxT_qBf9fR1rfFqaTRY77oEuK0a4lqYxWjMUcUykIOBuVGOWKtNt/embed?start=false&loop=false&delayms=10000" frameborder="0" width='100%' height='500' allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" title="Proposal"></iframe>
+                  </div> */}
+                {/* <div className="columns">
                   <div className="column is-12">
                     <h2>
                     <a style={{
@@ -61,8 +71,8 @@ export const IndexPageTemplate = ({
         }} class='button is-success is-large is-fullwidth' href='https://www.change.org/battleforspartanswimanddive'>Sign Petition to Reinstate Our Program!</a>
                     </h2>
                   </div>
-                </div>
-          
+                </div> */}
+
                 <div className="content">
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
