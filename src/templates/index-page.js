@@ -45,7 +45,7 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
               <div className="column is-12 has-text-centered">
-                  <h1>Official Spartan Swim/Dive Pledge</h1>
+                    <img width="400" height="500" src="https://battle-for-msu-swim-dive.s3.amazonaws.com/Give+Green+Day.png"></img>
                     <h2>After almost 2.5 years of work, MSU's University Advancement Office,
                       which oversees donations to Michigan State, has been directed by the President to collect
                       official pledges toward the reinstatement of both Men's and Women's Swimming and Diving teams.
