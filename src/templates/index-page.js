@@ -57,6 +57,7 @@ export const IndexPageTemplate = ({
                   <div className="column is-12">
                   <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf">Donation Form (Click to Download)</a></h2>
                   <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf">Example Donation Form  (Click to Download)</a></h2>
+                  <h3>Please do not provide credit card info or send checks with this form. This is for MSU to validate support.</h3>
                   <h2>Pledge FAQ</h2>
                   <img src="https://battle-for-msu-swim-dive.s3.amazonaws.com/Pledge+Form+FAQ.png"></img>
                   </div>
