@@ -45,7 +45,6 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
               <div className="column is-12 has-text-centered">
-                <h1><a href='https://us06web.zoom.us/j/81741307905?pwd=VGNPZWlmMmxqZGdtRFdpY0tUbnBwdz09'>Join Our Zoom Call March 28th at 8:00pm Eastern To Learn More!</a></h1>
                     <img width="400" height="500" src="https://battle-for-msu-swim-dive.s3.amazonaws.com/Give+Green+Day.png"></img>
                     <h2>After almost 2.5 years of work, MSU's University Advancement Office,
                       which oversees donations to Michigan State, has been directed by the President to collect
