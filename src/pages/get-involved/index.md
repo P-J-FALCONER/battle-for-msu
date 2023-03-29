@@ -10,7 +10,7 @@ Write personalized letters about why this fight matters to you.
  - Interim President, Dr. Teresa Woodruff: president@msu.edu
  - Athletic Director, Allan Haller: ad@ath.msu.edu, haller@ath.msu.edu
 
- - Board of Trustees Chair, Rema Vassar: byrum@msu.edu
+ - Board of Trustees Chair, Rema Vassar: DrRema@msu.edu
  - Board of Trustees Vice Chair, Dan Kelly: dkelly@msu.edu
  - Trustee, Dianne Byrum: byrum@msu.edu
  - Trustee, Renee Knake Jefferson: knakeree@msu.edu
