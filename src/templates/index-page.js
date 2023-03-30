@@ -89,12 +89,12 @@ export const IndexPageTemplate = ({
                     </h2>
                   </div>
                   </div>
-                <div className="columns">
+                {/* <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <h1>The Team Behind The Battle</h1>
                     <ImageGallery />
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

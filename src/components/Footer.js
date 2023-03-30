@@ -40,7 +40,7 @@ const Footer = class extends React.Component {
                       Get Involved
                       </Link>
                     </li>
-                    
+
                   </ul>
                 </section>
               </div>
@@ -57,11 +57,11 @@ const Footer = class extends React.Component {
                         Testimonials
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/save-olympic-sports">
                         #SaveOlympicSports
                       </Link>
-                    </li>
+                    </li> */}
                     <li>
                       <Link className="navbar-item" to="/contact">
                         Contact Us
