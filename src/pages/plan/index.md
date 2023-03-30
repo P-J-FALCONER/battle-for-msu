@@ -3,7 +3,7 @@ templateKey: 'about-page'
 path: /plan
 title: REINSTATEMENT PLAN OF ATTACK
 ---
- 
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyVvGczELipPfPv51eO97vQThJMxT_qBf9fR1rfFqaTRY77oEuK0a4lqYxWjMUcUykIOBuVGOWKtNt/embed?start=false&loop=false&delayms=10000" frameborder="0" width='100%' height='500' allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### As members of the Battle for Spartan Swim and Dive, we will fight until this decision is overturned and these teams are reinstated. To achieve this, we shall take the following actions:
@@ -16,6 +16,8 @@ title: REINSTATEMENT PLAN OF ATTACK
 
 - **Facility Planning** Properly exploring PPP funding routes. Additionally, working with ASMSU to push forward with starting an assessed recreation and wellness fee.
 
-- **Fundraising** We had hoped to have a fundraising target from the Board of Trustees at this point, but we do not. Pledges are being collected at this time to help make an informed decision on the best path forward. Pledges to NOT donate until reinstatement will also be explored. [Pledge Form](https://battleforspartanswimanddive.com/pledge)
+- **Fundraising** After almost 2.5 years of work, MSU's University Advancement Office, which oversees donations to Michigan State, has been directed by the President to collect official pledges toward the reinstatement of both Men's and Women's Swimming and Diving teams. Our understanding is that several lead donors have given us a great head start toward a viable reinstatement milestone and validating our original pledges will get us close. With the recent political climate at MSU we believe our window of opportunity is NOW, so let’s join the University and #GiveGreen this week for Spartan Swimming and Diving
+[Official MSU Pledge Form (Click to Download)](https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf)
+[Example Pledge Form (Click to Download)](https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf)
 
 - **Legal Action** To fight MSU’s noncompliance with Title IX.
