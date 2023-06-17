@@ -45,14 +45,8 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
               <div className="column is-12 has-text-centered">
-                    <img width="600" src="https://battle-for-msu-swim-dive.s3.amazonaws.com/20230418_074237_0000.png"></img>
-                    <h2>After almost 2.5 years of work, MSU's University Advancement Office,
-                      which oversees donations to Michigan State, has been directed by the President to collect
-                      official pledges toward the reinstatement of both Men's and Women's Swimming and Diving teams.
-                      Our understanding is that several lead donors have given us a great head start toward a viable
-                      reinstatement milestone and validating our original pledges will get us close. With the recent
-                      political climate at MSU we believe our window of opportunity is NOW, so let’s join the University
-                      and #GiveGreen this week for Spartan Swimming and Diving!</h2>
+                    <img width="600" src="https://battle-for-msu-swim-dive.s3.amazonaws.com/town_hall_poster.png"></img>
+                    <h2>We're hosting a townhall on Tuesday, June 20, at 8 p.m. EST, to discuss the proposed new pool as well as the fundraising targets being pursued by MSU. Here's the link: <a href='https://us06web.zoom.us/j/88002629967?pwd=cmY0MXZteEN0U2FtaU9abWcrQU4rQT09'>Click Here to Join us!</a></h2>
                   </div>
                   <div className="column is-12">
                   <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf">Official MSU Pledge Form (Click to Download)</a></h2>
