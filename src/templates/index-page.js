@@ -45,6 +45,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <h2>
                   <a
+                    class="button is-success is-large is-fullwidth"
                     href="https://battle-for-msu-swim-dive.s3.amazonaws.com/MSU+Board+of+Trustees+approves+new+aquatic+facility.pdf"
                     target="_blank"
                   >
@@ -53,12 +54,16 @@ export const IndexPageTemplate = ({
                 </h2>
                 <div className="column is-12">
                   <h2>
-                    <a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf">
+                    <a
+                    class="button is-success is-large is-fullwidth"
+                    href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf">
                       Official MSU Pledge Form (Click to Download)
                     </a>
                   </h2>
                   <h2>
-                    <a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf">
+                    <a
+                    class="button is-success is-large is-fullwidth"
+                    href="https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf">
                       Example Pledge Form (Click to Download)
                     </a>
                   </h2>
