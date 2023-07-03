@@ -3,12 +3,12 @@ templateKey: 'about-page'
 path: /some-time
 title: Got Some Spare Time
 ---
-## Contact School Administrators
-Write personalized letters about why this fight matters to you.
+# Reach out to AD Haller and voice your support!
+Write personalized letters about why this fight matters to you. [AD Haller](mailto:ad@ath.msu.edu) is the primary target
 
 #### Top Priority Contacts, Email as Many as You Can:
- - Interim President, Dr. Teresa Woodruff: [president@msu.edu](mailto:president@msu.edu)
  - Athletic Director, Allan Haller: [ad@ath.msu.edu](mailto:ad@ath.msu.edu)
+ - Interim President, Dr. Teresa Woodruff: [president@msu.edu](mailto:president@msu.edu)
 
  - Board of Trustees Chair, Rema Vassar: [DrRema@msu.edu](mailto:DrRema@msu.edu)
  - Board of Trustees Vice Chair, Dan Kelly: [dkelly@msu.edu](mailto:dkelly@msu.edu)
