@@ -94,12 +94,8 @@ const Navbar = class extends React.Component {
             </div>
           </div>
           <div id="bannerimage"></div>
-          <div
-          className="full-width-image-container margin-top-0"
-          style={{
-            backgroundImage: `url('https://battle-for-msu-swim-dive.s3.amazonaws.com/B4SSD_Banner.png')`,
-          }}
-        ></div>
+        </div>
+        <div className="container" id="bannerimage">
         </div>
       </nav>
     )
