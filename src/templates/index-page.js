@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import ImageGallery from '../components/ImageGallery'
 
 export const IndexPageTemplate = ({
   image,
@@ -43,15 +42,16 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <h2>
-                  <a
-                    class="button is-success is-large is-fullwidth"
-                    href="https://battle-for-msu-swim-dive.s3.amazonaws.com/MSU+Board+of+Trustees+approves+new+aquatic+facility.pdf"
-                    target="_blank"
-                  >
-                    Also, check out our press release on the new pool!
-                  </a>
-                </h2>
+              <div class="progress-bg">
+    	<div class="progress-bar">
+        <style>
+
+        </style>
+        	<h3 class="raised">$50,000&nbsp;raised </h3>
+        </div>
+
+        	{/* <h3 class="goal">Goal: $100,000</h3> */}
+    </div>
                 <div className="column is-12">
                   <h2>
                     <a
