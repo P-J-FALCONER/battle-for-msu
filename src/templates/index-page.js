@@ -47,7 +47,7 @@ export const IndexPageTemplate = ({
         <style>
 
         </style>
-        	<h3 class="raised">$50,000&nbsp;raised </h3>
+        	<h3 class="raised">20%&nbsp;raised </h3>
         </div>
 
         	{/* <h3 class="goal">Goal: $100,000</h3> */}

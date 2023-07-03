@@ -67,14 +67,11 @@ const Navbar = class extends React.Component {
               className="navbar-start has-text-centered"
               style={{ backgroundColor: '#18453B' }}
             >
-              <Link className="navbar-item has-text-white" to="/situation">
-                Our Situation
+              <Link className="navbar-item has-text-white" to="/media">
+              Media & Press Releases
               </Link>
               <Link className="navbar-item has-text-white" to="/pledge">
                 Pledge Your Support
-              </Link>
-              <Link className="navbar-item has-text-white" to="/plan">
-                Plan of Attack
               </Link>
               <Link className="navbar-item has-text-white" to="/get-involved">
                 Get Involved
