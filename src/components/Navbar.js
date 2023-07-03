@@ -93,6 +93,7 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
           </div>
+          <div id="bannerimage"></div>
           <div
           className="full-width-image-container margin-top-0"
           style={{

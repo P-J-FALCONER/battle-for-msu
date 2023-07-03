@@ -12,6 +12,13 @@ $black: #2b2523;
 
 $fundraising-percent:40%;
 
+#bannerimage {
+  width: 100%;
+  background-image: url(https://battle-for-msu-swim-dive.s3.amazonaws.com/B4SSD_Banner.png);
+  height: 405px;
+  background-position: center;
+}
+
 .navbar .navbar-menu {
   box-shadow:none !important
 }
