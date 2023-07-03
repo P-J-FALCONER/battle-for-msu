@@ -93,9 +93,6 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
           </div>
-          <div id="bannerimage"></div>
-        </div>
-        <div className="container" id="bannerimage">
         </div>
       </nav>
     )
