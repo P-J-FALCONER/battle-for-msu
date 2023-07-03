@@ -30,7 +30,7 @@ class Media extends React.Component {
                     </div>
                   ) : null}
                   <p className="post-meta">
-                  <a className="title has-text-primary is-size-4" href={post.frontmatter.url}>
+                  <a className="title has-text-primary is-size-4" href={post.frontmatter.url} target="_blank">
                   {post.frontmatter.title}
                   </a>
                     <span> &bull; </span>
