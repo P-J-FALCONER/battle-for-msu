@@ -3,7 +3,7 @@ templateKey: 'media'
 title: New Pool
 date: 2020-11-05T15:04:10.000Z
 featuredpost: true
-url: swimswam.com
+url: https://swimswam.com/michigan-state-could-be-close-to-reinstating-swimming-and-diving-programs/
 description: >-
   Class of 2021
 ---

@@ -11,6 +11,3 @@ title: Reinstatement Donation Drive
 ### Please do not provide credit card info or send checks with this form. This is for MSU to validate support.
 ## Pledge FAQ
 ![FAQ](https://battle-for-msu-swim-dive.s3.amazonaws.com/Pledge+Form+FAQ.png)
-
-###
-Please consider pledging to save our program. Anything is appreciated.
