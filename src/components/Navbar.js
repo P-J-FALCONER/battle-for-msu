@@ -93,6 +93,12 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
           </div>
+          <div
+          className="full-width-image-container margin-top-0"
+          style={{
+            backgroundImage: `url('/img/team_room.jpg')`,
+          }}
+        ></div>
         </div>
       </nav>
     )
