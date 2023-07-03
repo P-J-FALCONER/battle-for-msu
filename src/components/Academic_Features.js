@@ -4,19 +4,18 @@ import PropTypes from 'prop-types'
 const FeatureGrid = ({ gridItems }) => (
   <div>
     {gridItems.map((item) => (
-              <section className="section">
-              <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered has-text-success">
-                {item.year}
-              </h2>
-              <ul>
-                {item.stats.map((stat) => (
-                  <li key={stat} className="is-size-5">
-                    {stat}
-                  </li>
-                ))}
-              </ul>
-            </section>
-
+      <section className="section">
+        <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered has-text-success">
+          {item.year}
+        </h2>
+        <ul>
+          {item.stats.map((stat) => (
+            <li key={stat} className="is-size-5">
+              {stat}
+            </li>
+          ))}
+        </ul>
+      </section>
     ))}
   </div>
 )

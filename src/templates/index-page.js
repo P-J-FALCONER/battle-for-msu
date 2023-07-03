@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import ImageGallery from '../components/ImageGallery';
 
 export const IndexPageTemplate = ({
   image,
@@ -39,35 +38,42 @@ export const IndexPageTemplate = ({
     </div> */}
     <section className="section section--gradient">
       <div className="container">
-
         <div className="section">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-              <div className="column is-12 has-text-centered">
-                    <img width="600" src="https://battle-for-msu-swim-dive.s3.amazonaws.com/town_hall_poster.png"></img>
-                    <h2>We're hosting a townhall on Tuesday, June 20, at 8 p.m. EST, to discuss the proposed new pool as well as the fundraising targets being pursued by MSU. <a href='https://us06web.zoom.us/j/88002629967?pwd=cmY0MXZteEN0U2FtaU9abWcrQU4rQT09'>Click Here to Join us!</a> </h2>
-                  </div>
-                  <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/MSU+Board+of+Trustees+approves+new+aquatic+facility.pdf" target="_blank">Also, check out our press release on the new pool!</a></h2>
-                  <div className="column is-12">
-                  <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf">Official MSU Pledge Form (Click to Download)</a></h2>
-                  <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf">Example Pledge Form (Click to Download)</a></h2>
-                  <h3>Please do not provide credit card info or send checks with this form. This is for MSU to validate support.</h3>
+              <div class="progress-bg">
+    	<div class="progress-bar">
+        <style>
+
+        </style>
+        	<h3 class="raised">20%&nbsp;raised </h3>
+        </div>
+
+        	{/* <h3 class="goal">Goal: $100,000</h3> */}
+    </div>
+                <div className="column is-12">
+                  <h2>
+                    <a
+                    class="button is-success is-large is-fullwidth"
+                    href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf">
+                      Official MSU Pledge Form (Click to Download)
+                    </a>
+                  </h2>
+                  <h2>
+                    <a
+                    class="button is-success is-large is-fullwidth"
+                    href="https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf">
+                      Example Pledge Form (Click to Download)
+                    </a>
+                  </h2>
+                  <h3>
+                    Please do not provide credit card info or send checks with
+                    this form. This is for MSU to validate support.
+                  </h3>
                   <h2>Pledge FAQ</h2>
                   <img src="https://battle-for-msu-swim-dive.s3.amazonaws.com/Pledge+Form+FAQ.png"></img>
-                  </div>
-                  {/* <div className="column is-12">
-                  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyVvGczELipPfPv51eO97vQThJMxT_qBf9fR1rfFqaTRY77oEuK0a4lqYxWjMUcUykIOBuVGOWKtNt/embed?start=false&loop=false&delayms=10000" frameborder="0" width='100%' height='500' allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" title="Proposal"></iframe>
-                  </div> */}
-                {/* <div className="columns">
-                  <div className="column is-12">
-                    <h2>
-                    <a style={{
-          'font-size': '0.8rem'
-        }} class='button is-success is-large is-fullwidth' href='https://www.change.org/battleforspartanswimanddive'>Sign Petition to Reinstate Our Program!</a>
-                    </h2>
-                  </div>
-                </div> */}
+                </div>
 
                 <div className="content">
                   <div className="tile">
@@ -78,18 +84,17 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="columns">
-                <div className="column is-12">
-                    <h2 >
-                    <a class='button is-success is-large is-fullwidth' href='https://linktr.ee/battleforspartanswimanddive'>Useful Links</a>
+                  <div className="column is-12">
+                    <h2>
+                      <a
+                        class="button is-success is-large is-fullwidth"
+                        href="https://linktr.ee/battleforspartanswimanddive"
+                      >
+                        Useful Links
+                      </a>
                     </h2>
                   </div>
-                  </div>
-                {/* <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <h1>The Team Behind The Battle</h1>
-                    <ImageGallery />
-                  </div>
-                </div> */}
+                </div>
               </div>
             </div>
           </div>

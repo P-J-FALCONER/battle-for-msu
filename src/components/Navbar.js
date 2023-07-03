@@ -40,12 +40,13 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-          <Link to="/" className="navbar-item" title="Logo">
-          <img
-                    style={{ maxHeight: '3.75rem'}}
-                    className="fas fa-lg"
-                    src='https://battle-for-msu-swim-dive.s3.amazonaws.com/home.png'
-                    alt="Logo"/>
+            <Link to="/" className="navbar-item" title="Logo">
+              <img
+                style={{ maxHeight: '3.75rem' }}
+                className="fas fa-lg"
+                src="https://battle-for-msu-swim-dive.s3.amazonaws.com/home.png"
+                alt="Logo"
+              />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -62,21 +63,23 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered"
-            style={{ backgroundColor: '#18453B' }}>
-              <Link className="navbar-item has-text-white" to="/situation">
-                Our Situation
+            <div
+              className="navbar-start has-text-centered"
+              style={{ backgroundColor: '#18453B' }}
+            >
+              <Link className="navbar-item has-text-white" to="/media">
+              Media & Press Releases
               </Link>
               <Link className="navbar-item has-text-white" to="/pledge">
                 Pledge Your Support
               </Link>
-              <Link className="navbar-item has-text-white" to="/plan">
-                Plan of Attack
-              </Link>
               <Link className="navbar-item has-text-white" to="/get-involved">
                 Get Involved
               </Link>
-              <Link className="navbar-item has-text-white" to="/program-accolades">
+              <Link
+                className="navbar-item has-text-white"
+                to="/program-accolades"
+              >
                 Program Accolades
               </Link>
               <Link className="navbar-item has-text-white" to="/testimonials">

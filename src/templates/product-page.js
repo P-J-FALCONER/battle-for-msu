@@ -24,15 +24,16 @@ export const ProductPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
       }}
-    >
-    </div>
+    ></div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
             <div className="column is-12">
-            <h3 className="has-text-centered">{description}</h3>
-              <h3 className="has-text-weight-semibold is-size-2 has-text-centered">{heading}</h3>
+              <h3 className="has-text-centered">{description}</h3>
+              <h3 className="has-text-weight-semibold is-size-2 has-text-centered">
+                {heading}
+              </h3>
             </div>
           </div>
           <div className="columns">
