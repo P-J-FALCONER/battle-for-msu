@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: 'media'
 title: New Pool
 date: 2020-11-05T15:04:10.000Z
 featuredpost: true
