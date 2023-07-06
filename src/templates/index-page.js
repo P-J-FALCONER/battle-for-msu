@@ -44,10 +44,6 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-              <div className="column is-12 has-text-centered">
-                    <img width="600" src="https://battle-for-msu-swim-dive.s3.amazonaws.com/town_hall_poster.png"></img>
-                    <h2>We're hosting a townhall on Tuesday, June 20, at 8 p.m. EST, to discuss the proposed new pool as well as the fundraising targets being pursued by MSU. <a href='https://us06web.zoom.us/j/88002629967?pwd=cmY0MXZteEN0U2FtaU9abWcrQU4rQT09'>Click Here to Join us!</a> </h2>
-                  </div>
                   <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/MSU+Board+of+Trustees+approves+new+aquatic+facility.pdf" target="_blank">Also, check out our press release on the new pool!</a></h2>
                   <div className="column is-12">
                   <h2><a href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf">Official MSU Pledge Form (Click to Download)</a></h2>
